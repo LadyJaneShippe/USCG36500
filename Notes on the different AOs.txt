@@ -1,0 +1,8 @@
+Notes.
+
+There are a couple of cases here were multiple versions of the same AO file are provided.
+When making AOs, dependig on rander settings, they come out darker or lighter.
+This is useful when making textures a so I keep multiple versions.
+You can use whichever you like, select the one that is suitable for your texture, or combine them as required.
+
+If you need help with this, please contacte me.
